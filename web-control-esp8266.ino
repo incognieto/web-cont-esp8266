@@ -2,10 +2,10 @@
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
 
-const char* ssid = "kutupetrikclub"; 
-const char* pass = "sehatselaluabah23";
+const char* ssid = "<ssid hotspot/wifi>"; 
+const char* pass = "<pass hotspot/wifi>";
 
-const char* host = "192.168.1.11";
+const char* host = "<ip host>";
 
 //#define pin_relay 5 //setup GPIO5 or D1
 #define pin_lampu 4 //setup GPIO4 or D2
